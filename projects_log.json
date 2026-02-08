@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "name": "Dify",
+      "url": "https://github.com/langgenius/dify",
+      "stars": 129028,
+      "added_date": "2026-02-08T16:20:00+08:00",
+      "path": "/Users/seqi/projects/claude_project/new_ai/projects/dify",
+      "category": "AI Agent Platform",
+      "description": "开源的 LLM 应用开发平台，可视化构建 AI 智能体工作流",
+      "status": "已克隆",
+      "ready_to_run": true
+    }
+  ],
+  "last_update": "2026-02-08T16:20:00+08:00",
+  "total_projects": 1
+}

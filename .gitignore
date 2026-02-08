@@ -9,8 +9,13 @@ env/
 ENV/
 .venv
 
-# 项目目录
-projects/
+# 项目目录（但保留配置文件）
+#projects/
+projects/*/.env_venv/
+projects/*/venv/
+projects/*/node_modules/
+projects/*/.git/
+projects/*/__pycache__/
 
 # 日志文件
 *.log
